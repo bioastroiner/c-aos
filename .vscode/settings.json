@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "ctype.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "malloc.h": "c",
+        "vec.h": "c",
+        "io.h": "c",
+        "io_utils.h": "c",
+        "lnklist.h": "c",
+        "main.h": "c",
+        "day1.h": "c",
+        "cstdlib": "c",
+        "day2.h": "c"
+    }
+}
